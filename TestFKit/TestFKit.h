@@ -15,6 +15,6 @@ FOUNDATION_EXPORT double TestFKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char TestFKitVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <TestFKit/PublicHeader.h>
-
- #import <TestFKitModels/TestFKitModels.h>
-#import <TestFKitViews/TestFKitViews.h>
+//#import <TestFKit/TestFKi>
+ //#import <TestFKitModels/TestFKitModels.h>
+ //#import <TestFKitViews/TestFKitViews.h>
