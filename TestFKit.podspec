@@ -136,12 +136,12 @@ Pod::Spec.new do |s|
 	end
 	
   s.subspec 'Views' do |ss|
-    	ss.source_files  = "TestFKitViews"
+    	ss.source_files  = "TestFKitViews/**"
     	ss.requires_arc = true
 	end
 	
 	s.subspec 'Models' do |ss|
-    	ss.source_files  = "TestFKitModels"
+    	ss.source_files  = "TestFKitModels/**"
     	ss.requires_arc = true
 	end
 
